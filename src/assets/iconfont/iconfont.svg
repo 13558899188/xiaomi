@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="Stone-arrow-dropdown" unicode="&#59461;" d="M277.033208 501.483396l234.966792-234.966792 234.966792 234.966792z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="Stone-arrow-dropup" unicode="&#59462;" d="M746.966792 266.494024L512 501.460816 277.033208 266.494024z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

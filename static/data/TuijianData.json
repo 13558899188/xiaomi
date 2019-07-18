@@ -1,0 +1,66 @@
+{
+	"title":"为你推荐",
+	"TuijianList":[
+		{
+			"imgurl":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/daeff22299cbaf7691fd7155e999a71d.jpg?thumb=1&w=360&h=360",
+			"titleName":"Redmi Note 7 Pro",
+			"newPrice":"￥1599",
+			"beforePrice":""
+		},{
+			"imgurl":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/93c754150d20fc9a4cb1a3d016fc9f2e.jpg?thumb=1&w=360&h=360",
+			"titleName":"小米8 6GB+128GB",
+			"newPrice":"￥2599",
+			"beforePrice":"￥2599"
+		},{
+			"imgurl":"//i8.mifile.cn/b2c-mimall-media/34a18aa1149fadb391a7c405435934db!360x360.jpg",
+			"titleName":"小米8 屏幕指纹版 6GB内存",
+			"newPrice":"￥1999",
+			"beforePrice":"￥2999"
+		},{
+			"imgurl":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/178f56b4973bac912d4d5a0190e9ac83.jpg?thumb=1&w=360&h=360",
+			"titleName":"Redmi Note 7",
+			"newPrice":"￥1199",
+			"beforePrice":""
+		},{
+			"imgurl":"//i8.mifile.cn/b2c-mimall-media/cf8df89713342d51d01bff5ed1bced57!360x360.jpg",
+			"titleName":"小米6X 6GB+64GB",
+			"newPrice":"￥1049",
+			"beforePrice":"￥1799"
+		},{
+			"imgurl":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/a183eae8ce729005a1e1bf2907f6d51d.png?thumb=1&w=360&h=360",
+			"titleName":"小米 Play 4GB+64GB",
+			"newPrice":"￥749",
+			"beforePrice":"￥999"
+		},{
+			"imgurl":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e96b30e69ce22b5ebb5f19e501453a3b.jpg?thumb=1&w=360&h=360",
+			"titleName":"Redmi 7 ",
+			"newPrice":"￥999",
+			"beforePrice":""
+		},{
+			"imgurl":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/35a85fe8fcb34269d93970b5a735b697.jpg?thumb=1&w=360&h=360",
+			"titleName":"小米MIX 2S",
+			"newPrice":"￥1999",
+			"beforePrice":"￥2999"
+		},{
+			"imgurl":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/1f26db62f8d25fdc5840a57100c041aa.jpg?thumb=1&w=360&h=360",
+			"titleName":"小米9 SE 6GB+128GB",
+			"newPrice":"￥2299",
+			"beforePrice":""
+		},{
+			"imgurl":"//i8.mifile.cn/b2c-mimall-media/045c65e158210a4a30e1215d15ad6cbe!360x360.jpg",
+			"titleName":"标准高透贴膜",
+			"newPrice":"￥9",
+			"beforePrice":"￥19"
+		},{
+			"imgurl":"//i8.mifile.cn/b2c-mimall-media/c92bebc165cc9e5db46939781fda491c!360x360.jpg",
+			"titleName":"极简保护壳",
+			"newPrice":"￥29",
+			"beforePrice":"￥39"
+		},{
+			"imgurl":"//i8.mifile.cn/b2c-mimall-media/e73a38fa0dca982ea6685e045d05a163!360x360.jpg",
+			"titleName":"活塞耳机 ",
+			"newPrice":"￥29",
+			"beforePrice":""
+		}
+	]
+}
